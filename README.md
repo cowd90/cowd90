@@ -65,7 +65,7 @@ Here are some ideas to get you started:
         src="https://img.shields.io/badge/sqlserver-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
 </div>
 
-<h2 align="center">Tools:</h2>
+<h2 align="center">Others</h2>
 <div align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="postman"/>
