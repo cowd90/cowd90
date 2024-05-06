@@ -53,8 +53,14 @@ Here are some ideas to get you started:
 <div align="center">
     <img alt="postgres"
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="mongodb"
+        src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
     <img alt="my-sql" 
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="firebase" 
+        src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
+    <img alt="neo4j" 
+        src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=fff&style=for-the-badge" />
     <img alt="sql-server"
         src="https://img.shields.io/badge/sqlserver-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
 </div>
@@ -62,8 +68,13 @@ Here are some ideas to get you started:
 <h2 align="center">Tools:</h2>
 <div align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="postman"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="docker"/>
+    </a>
+    <a href="https://kubernetes.io/vi/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="kubernetes"/>
     </a>
 </div>
 
